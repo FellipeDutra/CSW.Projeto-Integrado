@@ -15,3 +15,9 @@ A página funcionando pelo Github pode ser visualizada por:
 
 
 A página pelo servidor da UVV pode ser vista por: https://disciplinas.uvv.br/cc1m/g7/#
+
+
+
+Créditos:
+nicepage.com
+
