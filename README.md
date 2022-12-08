@@ -4,11 +4,11 @@ Eco Life
 
 Integrantes
 
-Thiago de Almeida Pedro 
-Fellipe de Souza Torres Dutra
-Daniel Meneguelli
-Enzo Ofrante
-Gabriel Perim
+Thiago de Almeida Pedro, 
+Fellipe de Souza Torres Dutra,
+Daniel Meneguelli,
+Enzo Ofrante,
+Gabriel Perim.
 
 
 A página funcionando pelo Github pode ser visualizada por: 
